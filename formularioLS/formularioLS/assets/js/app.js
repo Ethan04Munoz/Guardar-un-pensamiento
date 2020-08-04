@@ -1,0 +1,4 @@
+/*
+Archivo Js de 
+Guardar un pensamiento
+*/
